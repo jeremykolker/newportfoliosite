@@ -9,7 +9,7 @@ const introdata = {
     title: "Software Engineering & Web Development" + "\xa0",
     animated: {
         first: "I build useful apps",
-        second: "I code cool websites",
+        second: "I code websites",
         third: "I develop UX & UI",
         fourth: "I help solve technical problems"
     },
