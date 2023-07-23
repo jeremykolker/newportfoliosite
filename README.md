@@ -1,5 +1,5 @@
 Jeremy Kolker Portfolio Site crested with React.JS 
-s
+d
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
