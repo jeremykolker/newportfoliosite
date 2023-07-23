@@ -1,4 +1,4 @@
-Jeremy Kolker Portfolio Site crested with React.JS vv
+Jeremy Kolker Portfolio Site crested with React.JS d
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
