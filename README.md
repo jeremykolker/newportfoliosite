@@ -1,10 +1,4 @@
-Jeremy Kolker Portfolio Site crested with React.JS abcdefghijklmnopqrstuvwxyz1234567889
-1011
-
-13
-
-
-2
+Jeremy Kolker Portfolio Site crested with React.JS a
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
