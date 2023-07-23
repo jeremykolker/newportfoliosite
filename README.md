@@ -1,4 +1,4 @@
-Jeremy Kolker Portfolio Site crested with React.JS abcdefghijklmn
+Jeremy Kolker Portfolio Site crested with React.JS abcdefghijklmno
 
 
 
